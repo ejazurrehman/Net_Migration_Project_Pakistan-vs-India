@@ -22,14 +22,17 @@ The Jupyter notebook net_migration_project_south_asia.ipynb performs the followi
 
 4. Statistical Analysis:
    - Conducts hypothesis testing to determine significant differences in migration patterns.
-
-5. Visualization:
+5. Spike Detection:
+   - Identifies periods with sudden increases or decreases in net migration.
+6. Visualization:
    - Generates line plots and bar charts to illustrate findings.
 # Key Findings
 - Migration Trends: 
   - Both countries experienced fluctuating migration rates, with notable peaks during periods of economic or political change.
 - Comparative Analysis: 
   - India's net migration rate has generally been higher than Pakistan's, indicating a greater influx of immigrants.
+  - Net Migration Analysis:
+    - 
 # Requirements
 - To run the analysis locally, ensure you have the following Python packages installed.
 # License
